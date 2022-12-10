@@ -7,7 +7,7 @@ import speech_recognition as sr
 #     print(voice)
 
 
-class deneme:
+class sesisle:
     
 
     def sesyaz():
